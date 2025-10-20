@@ -54,7 +54,7 @@ function App() {
             className="w-full max-w-4xl mx-auto block"
           />
           <img
-            src="/src/assets/SC3.png"
+            src="/images/SC3.png"
             alt="SC3"
             className="w-full max-w-4xl mx-auto block"
           />
