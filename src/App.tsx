@@ -59,7 +59,7 @@ function App() {
             className="w-full max-w-4xl mx-auto block"
           />
           <img
-            src="/src/assets/SC5-OFERTA.png"
+            src="/images/SC5-OFERTA.png"
             alt="SC5 Oferta"
             className="w-full max-w-4xl mx-auto block"
           />
@@ -77,7 +77,7 @@ function App() {
           </div>
           
           <img
-            src="/src/assets/SC4-GARANTIA.png"
+            src="/images/SC4-GARANTIA.png"
             alt="SC4 Garantia"
             className="w-full max-w-4xl mx-auto block"
           />

@@ -249,7 +249,7 @@ export const recipes: Recipe[] = [
       'Finalize com mel e sirva quente'
     ],
     benefits: ['Aquece o corpo', 'Fibras solúveis', 'Sensação de saciedade'],
-    image: '/src/assets/Mingau de Aveia com Maçã.jpg'
+    image: '/images/Mingau de Aveia com Maçã.jpg'
   },
   {
     id: 11,
@@ -349,7 +349,7 @@ export const recipes: Recipe[] = [
       'Asse no micro-ondas por 3 minutos ou forno por 15 minutos'
     ],
     benefits: ['Sem açúcar adicionado', 'Pode fazer antecipado', 'Portátil'],
-    image: '/src/assets/Muffin de Banana Fit.webp'
+    image: '/images/Muffin de Banana Fit.webp'
   },
   {
     id: 15,
@@ -374,7 +374,7 @@ export const recipes: Recipe[] = [
       'Finalize com uma pitada de canela'
     ],
     benefits: ['Muito proteico', 'Gorduras saudáveis', 'Zero preparo'],
-    image: '/src/assets/Queijo Cottage com Nozes.webp'
+    image: '/images/Queijo Cottage com Nozes.webp'
   },
   {
     id: 16,
@@ -399,7 +399,7 @@ export const recipes: Recipe[] = [
       'Decore com frutas frescas'
     ],
     benefits: ['Preparo antecipado', 'Rico em ômega-3', 'Sabor tropical'],
-    image: '/src/assets/Chia Pudding de Coco.webp'
+    image: '/images/Chia Pudding de Coco.webp'
   },
   {
     id: 17,
@@ -474,7 +474,7 @@ export const recipes: Recipe[] = [
       'Despeje em frigideira e cozinhe dos dois lados'
     ],
     benefits: ['Versátil', 'Pode servir frio', 'Sacia por horas'],
-    image: '/src/assets/Tortilha Espanhola Light.jpg'
+    image: '/images/Tortilha Espanhola Light.jpg'
   },
   {
     id: 20,
@@ -499,6 +499,6 @@ export const recipes: Recipe[] = [
       'Sirva imediatamente com colher'
     ],
     benefits: ['Rico em antioxidantes', 'Refrescante', 'Visualmente atrativo'],
-    image: '/src/assets/Smoothie Bowl de Morango.jpg'
+    image: '/images/Smoothie Bowl de Morango.jpg'
   }
 ];
